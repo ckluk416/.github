@@ -1,0 +1,88 @@
+## ckluk416
+
+merupakan arsip penugasan seluruh matakuliah milik\
+[Fathin Y - 241524041](https://github.com/vermilion10)
+
+### navigasi
+- semester 1
+  - dasar2 pemrograman
+    - pertemuan x
+    - [UAS DDP](https://github.com/ckluk416/UAS-DDP-S1)
+    - [Tugas besar](https://github.com/Xen0morphh/Tugas-Besar-2048)
+    - Latihan moodle lokal - C
+      - tba
+- semester 2
+  - sttuktur data dan algoritma
+    - [warming up - kalender](https://github.com/ckluk416/kallendeer)
+    - [w1 - pola/ascii art](https://github.com/ckluk416/SDAs2/tree/main/SDA/SDAw1))
+    - [w2 - pointer ptr1-13](https://github.com/ckluk416/SDAs2/blob/main/SDA/SDAw2.c)
+    - [w3 - pointer ptr14-19](https://github.com/ckluk416/SDAs2/blob/main/SDA/SDAw3.c)
+    - [w4 - pointer ptr20-21, NRLL](https://github.com/ckluk416/SDAs2/tree/main/SDA/SDAw4)
+    - [w5 - latihan LL studi kasus 1](https://github.com/ckluk416/SDAs2/tree/main/SDA/SDAw5)
+    - [w6 - latihan LL, stack, queue studi kasus 2-4](https://github.com/ckluk416/SDAs2/tree/main/SDA/SDAw6)
+    - [w7 - latihan LL, SLL studi kasus 5-6](https://github.com/ckluk416/SDAs2/tree/main/SDA/SDAw7)
+    - [w8 - latihan Linked list, non binary tree, tree traversal](https://github.com/ckluk416/SDAs2/tree/main/SDA/SDAw8)
+    - [w9 - latihan non binary tree static kasus 7-8](https://github.com/ckluk416/SDAs2/tree/main/SDA/SDAw9)
+    - [w10 - latihan binary tree dynamic kasus 9-10](https://github.com/ckluk416/SDAs2/tree/main/SDA/SDAw10)
+    - wx
+    - [tugas besar - sdajul kimia](https://github.com/ckluk416/sdajul)
+  - proyek 1
+    - tugas besar - blackjack GUI
+    - portofolio dan data scraping bs4
+    - [matplotlib grafik visual](https://github.com/ckluk416/proyeks2)
+    - pertemuan x
+  - teknik pemrograman
+    - [pt 1 - pemanasan java](https://github.com/ckluk416/tugas-tekpro1)
+    - [pt 2 - pemanasan java #2](https://github.com/ckluk416/tugas-tekpro2)
+    - [pt 3 - studikasus restoran bioskop](https://github.com/ckluk416/tugas-tekpro3)
+    - [pt 4 - ETLE](https://github.com/ckluk416/tugas-tekpro4)
+    - [pt 5 - JFC java collections framework](https://github.com/ckluk416/tugas-tekpro5)
+    - [pt 6 - latihan java](https://github.com/ckluk416/tekpro_sem2/tree/main/tugas-tekpro6)
+    - [pt 7 - cohesion n coupling](https://github.com/ckluk416/tekpro_sem2/tree/main/tugas_tekpro7)
+    - [pt 8 - OOP](https://github.com/ckluk416/tekpro_sem2/blob/main/tugas_tekpro8)
+    - [pt 9 - JUnit](https://github.com/ckluk416/tekpro_sem2/tree/main/tugas_tekpro9)
+    - [pt 10 - clean code, refactoring, sonarcube](https://github.com/ckluk416/tekpro_sem2/tree/main/tugas_tekpro10)
+    - [pt 11 - design pattern](https://github.com/ckluk416/tekpro_sem2/tree/main/tugas_tekpro11)
+- semester 3
+  - aljabar linear
+    - [p1 - identifikasi matriks dasar](https://github.com/ckluk416/S3_041_bak/blob/main/k-aljabar-linear/p1)
+    - [p2 - kalkulator matriks-skalar dasar](https://github.com/ckluk416/S3_041_bak/tree/main/k-aljabar-linear/p2-25082025)
+    - [pt3 - kalkulator atas versi GUI](https://github.com/ckluk416/S3_041_bak/blob/main/k-aljabar-linear/p3-01092025)
+    - [pt4 - determinan matriks 3x3 (OBE/ERO)](https://github.com/ckluk416/S3_041_bak/tree/main/k-aljabar-linear/p4-08092025)
+    - [pt5 - quiz](https://github.com/ckluk416/S3_041_bak/tree/main/k-aljabar-linear/p5-15092025)
+    - [pt6 - kalkulator (enhanced) GUI](https://github.com/ckluk416/S3_041_bak/tree/main/k-aljabar-linear/p6-22092025)
+    - pt7 - x
+    - [UTS](https://github.com/ckluk416/S3_041_bak/tree/main/k-aljabar-linear/p8-uts-06102025)
+    - pt9 - x
+    - pt10 - x
+    - [pt11 - tambahan UTS](https://github.com/ckluk416/S3_041_bak/tree/main/k-aljabar-linear/p11-03112025)
+    - pt12 - x
+    - [pt13 - computational aljabar linear](https://github.com/ckluk416/S3_041_bak/tree/main/k-aljabar-linear/p13-10112025)
+    - [pt14 - quiz(?)](https://github.com/ckluk416/S3_041_bak/tree/main/k-aljabar-linear/p14-17112025)
+    - [pt15 - transformasi matriks](https://github.com/ckluk416/S3_041_bak/tree/main/k-aljabar-linear/p15-24112025)
+  - Programming LAnguage pragmatics
+    - pt x
+    - [pt 2 - analisis syntax semantic bahasa C, go, haskell, prolog, python, rust, scala, sql query(???)](https://github.com/ckluk416/S3_041_bak/tree/main/k-plp/p2-26082025/pre-p2)
+    - [p9 - DSL](https://github.com/ckluk416/S3_041_bak/tree/main/k-plp/p9-dsl_intro)
+    - [DSL](https://github.com/ckluk416/TripPlanner)
+  - Matematika diskrit lanjut
+    - [p1 - basic graph impelmentation networkx, matplotlib](https://github.com/ckluk416/S3_041_bak/tree/main/k-matematika-diskrit/p1-21082025)
+    - [pt2 - graph, degree, handshaking theorem](https://github.com/ckluk416/S3_041_bak/blob/main/k-matematika-diskrit/p2-28082025)
+    - [pt3 - graph, connected component](https://github.com/ckluk416/S3_041_bak/blob/main/k-matematika-diskrit/p3-04092025)
+    - [pt 4 - quiz](https://github.com/ckluk416/S3_041_bak/blob/main/k-matematika-diskrit/p3-04092025)
+    - [pt5 - graph, euler, hamilton](https://github.com/ckluk416/S3_041_bak/tree/main/k-matematika-diskrit/p5-18092025)
+    - [pt6 - graph coloring](https://github.com/ckluk416/S3_041_bak/tree/main/k-matematika-diskrit/p6-25092025)
+    - [pt7 - quiz](https://github.com/ckluk416/S3_041_bak/tree/main/k-matematika-diskrit/p7-02102025)
+    - [UTS - Peta Okupasi Wilayah Eropa selama WW2](https://github.com/ckluk416/S3_041_bak/tree/main/k-matematika-diskrit/UTS)
+    - [pt9 - First order logic Prolog kasus UTS](https://github.com/ckluk416/S3_041_bak/tree/main/k-matematika-diskrit/p9-16102025)
+    - [pt10 - FOL prolog UTS](https://github.com/ckluk416/S3_041_bak/tree/main/k-matematika-diskrit/p10-23102025)
+    - [pt11 - FOL Prolog UTS, streamlit](https://github.com/ckluk416/S3_041_bak/tree/main/k-matematika-diskrit/p11-30102025)
+    - [pt12 - quiz](https://github.com/ckluk416/S3_041_bak/tree/main/k-matematika-diskrit/p12-06112025)
+    - pt13 - unifikasi
+  - [sistem oeprasi](https://github.com/ckluk416/S3_041_bak/tree/main/k-sistem-operasi)
+- semester 4
+  - Grafika komputer
+    - [ETS - Animasi kembang api raylib](https://github.com/ckluk416/KA-4)
+    - [Garis, lingkaran, raylib pre ETS](https://github.com/ckluk416/raylib-pre-ets)
+    - [3D, blender pra ETS](https://github.com/ckluk416/blender-pra-ets4)
+  - [APPL](https://github.com/ckluk416/s4-appl)
