@@ -85,7 +85,7 @@ merupakan arsip penugasan seluruh matakuliah milik\
     - [ETS - Animasi kembang api raylib](https://github.com/ckluk416/KA-4)
     - [Garis, lingkaran, raylib pre ETS](https://github.com/ckluk416/raylib-pre-ets)
     - [3D, blender pra ETS](https://github.com/ckluk416/blender-pra-ets4)
-    - [tugas besar - solo](https://github.com/ckluk416/lumina-defense)
+    - [tugas besar - solo: Lumina Defense](https://github.com/ckluk416/lumina-defense)
   - [APPL](https://github.com/ckluk416/s4-appl)
  - semester 5
    - anu
