@@ -1,7 +1,7 @@
 ## ckluk416
 
 merupakan arsip penugasan seluruh matakuliah milik\
-[Fathin Y - 241524041](https://github.com/vermilion10)
+[Fathin Y - 241524041](https://github.com/vermilion10) - D4 Teknik Informatika Politeknik Negeri Bandung
 
 ### navigasi
 - semester 1
@@ -85,4 +85,7 @@ merupakan arsip penugasan seluruh matakuliah milik\
     - [ETS - Animasi kembang api raylib](https://github.com/ckluk416/KA-4)
     - [Garis, lingkaran, raylib pre ETS](https://github.com/ckluk416/raylib-pre-ets)
     - [3D, blender pra ETS](https://github.com/ckluk416/blender-pra-ets4)
+    - [tugas besar - solo](https://github.com/ckluk416/lumina-defense)
   - [APPL](https://github.com/ckluk416/s4-appl)
+ - semester 5
+   - anu
