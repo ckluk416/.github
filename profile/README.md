@@ -88,4 +88,5 @@ merupakan arsip penugasan seluruh matakuliah milik\
     - [tugas besar - solo: Lumina Defense](https://github.com/ckluk416/lumina-defense)
   - [APPL](https://github.com/ckluk416/s4-appl)
  - semester 5
-   - anu
+   - [Pengolahan citra digital](https://github.com/ckluk416/pengolahan-citra-digital)
+   - [Komputasi numerik](https://github.com/ckluk416/komputasi-numerik)
